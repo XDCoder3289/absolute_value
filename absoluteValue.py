@@ -1,4 +1,4 @@
-print("I made this Absolute Value Calculator on python because C was fucking my brain up")
+# Python is easier than C LOL
 var = input("variable: ")
 operand = input("Type in the operand: ")
 num = int(input("What is the number: "))
