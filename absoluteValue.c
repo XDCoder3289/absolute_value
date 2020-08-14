@@ -1,4 +1,5 @@
 #include <stdio.h>
+// to capture the variable as a string
 #include <string.h>
 int main() {
     char operator;
