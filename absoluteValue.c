@@ -9,7 +9,7 @@ int main() {
     scanf("%c", &operator);
     printf("Enter the variable: \n");
     scanf("%s", &variable);
-    printf("Enter two operands (one before equal and one after equal sign): ");
+    printf("Enter two operands (one before the less than/greater than and one after the sign): ");
     scanf("%d %d", &first, &second);
 
     switch (operator) {

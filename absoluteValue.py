@@ -2,7 +2,7 @@
 var = input("variable: ")
 operand = input("Type in the operand: ")
 num = int(input("What is the number: "))
-numb = int(input("What is the equation equal to: "))
+numb = int(input("What is the equation less/greater than to: "))
 
 def positive():
     resultpos = num + numb
